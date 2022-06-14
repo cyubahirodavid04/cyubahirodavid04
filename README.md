@@ -8,16 +8,8 @@
 cyubahirodavid04/cyubahirodavid04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>zigamz</title>
-	<link rel="stylesheet" href="./files/main.css">
-</head>
-<body>	
-	<div class="nav">
+
+<div class="nav">
 		<img src="./images/cover.jpg" alt="photo">
 		<div class="nav-content">
 			<div class="logo">
@@ -59,5 +51,3 @@ You can click the Preview link to take a look at your changes.
 		</div>
 
 	</div>
-</body>
-</html>
